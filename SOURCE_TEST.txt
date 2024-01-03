@@ -1,3 +1,7 @@
 Test 1
+<<<<<<< HEAD
 and another Test
 Third line
+=======
+and another Test
+>>>>>>> db4d670 (another commit)
